@@ -1,0 +1,15 @@
+C:\FlutterServer\Hotel.Api\Hotel.Repository\bin\Debug\net5.0\Hotel.Repository.deps.json
+C:\FlutterServer\Hotel.Api\Hotel.Repository\bin\Debug\net5.0\Hotel.Repository.dll
+C:\FlutterServer\Hotel.Api\Hotel.Repository\bin\Debug\net5.0\Hotel.Repository.pdb
+C:\FlutterServer\Hotel.Api\Hotel.Repository\bin\Debug\net5.0\Hotel.Models.dll
+C:\FlutterServer\Hotel.Api\Hotel.Repository\bin\Debug\net5.0\Hotel.Models.pdb
+C:\FlutterServer\Hotel.Api\Hotel.Repository\obj\Debug\net5.0\Hotel.Repository.csproj.AssemblyReference.cache
+C:\FlutterServer\Hotel.Api\Hotel.Repository\obj\Debug\net5.0\Hotel.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\FlutterServer\Hotel.Api\Hotel.Repository\obj\Debug\net5.0\Hotel.Repository.AssemblyInfoInputs.cache
+C:\FlutterServer\Hotel.Api\Hotel.Repository\obj\Debug\net5.0\Hotel.Repository.AssemblyInfo.cs
+C:\FlutterServer\Hotel.Api\Hotel.Repository\obj\Debug\net5.0\Hotel.Repository.csproj.CoreCompileInputs.cache
+C:\FlutterServer\Hotel.Api\Hotel.Repository\obj\Debug\net5.0\Hotel.Repository.csproj.CopyComplete
+C:\FlutterServer\Hotel.Api\Hotel.Repository\obj\Debug\net5.0\Hotel.Repository.dll
+C:\FlutterServer\Hotel.Api\Hotel.Repository\obj\Debug\net5.0\refint\Hotel.Repository.dll
+C:\FlutterServer\Hotel.Api\Hotel.Repository\obj\Debug\net5.0\Hotel.Repository.pdb
+C:\FlutterServer\Hotel.Api\Hotel.Repository\obj\Debug\net5.0\ref\Hotel.Repository.dll

@@ -1,0 +1,12 @@
+C:\FlutterServer\Hotel.Api\Hotel.Models\bin\Release\net5.0\Hotel.Models.deps.json
+C:\FlutterServer\Hotel.Api\Hotel.Models\bin\Release\net5.0\Hotel.Models.dll
+C:\FlutterServer\Hotel.Api\Hotel.Models\bin\Release\net5.0\Hotel.Models.pdb
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Release\net5.0\Hotel.Models.csproj.AssemblyReference.cache
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Release\net5.0\Hotel.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Release\net5.0\Hotel.Models.AssemblyInfoInputs.cache
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Release\net5.0\Hotel.Models.AssemblyInfo.cs
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Release\net5.0\Hotel.Models.csproj.CoreCompileInputs.cache
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Release\net5.0\Hotel.Models.dll
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Release\net5.0\refint\Hotel.Models.dll
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Release\net5.0\Hotel.Models.pdb
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Release\net5.0\ref\Hotel.Models.dll
