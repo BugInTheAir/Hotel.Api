@@ -1,0 +1,12 @@
+C:\FlutterServer\Hotel.Api\Hotel.Models\bin\Debug\net5.0\FruitsShop.Models.deps.json
+C:\FlutterServer\Hotel.Api\Hotel.Models\bin\Debug\net5.0\FruitsShop.Models.dll
+C:\FlutterServer\Hotel.Api\Hotel.Models\bin\Debug\net5.0\FruitsShop.Models.pdb
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Debug\net5.0\FruitsShop.Models.csproj.AssemblyReference.cache
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Debug\net5.0\FruitsShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Debug\net5.0\FruitsShop.Models.AssemblyInfoInputs.cache
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Debug\net5.0\FruitsShop.Models.AssemblyInfo.cs
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Debug\net5.0\FruitsShop.Models.csproj.CoreCompileInputs.cache
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Debug\net5.0\FruitsShop.Models.dll
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Debug\net5.0\refint\FruitsShop.Models.dll
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Debug\net5.0\FruitsShop.Models.pdb
+C:\FlutterServer\Hotel.Api\Hotel.Models\obj\Debug\net5.0\ref\FruitsShop.Models.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LrQM7PSmOK4tHvlUdqbnCsF1vr7Tr+VUwVto0uLpQDbXxmAQwQy/hgol2ozPLlrZpdeEyCNiL+nLUbURV8RPQw==",
+  "dgSpecHash": "KptWoGrX2xgxm/WqGCw6GLQZcUJrIPasY96CGtoZZtko9uRFghRx1DIosoeifaiDDEtDHFXo3gVEv9IIICg07w==",
   "success": true,
-  "projectFilePath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\Hotel.Models.csproj",
+  "projectFilePath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cefvi\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\cefvi\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

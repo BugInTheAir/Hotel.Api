@@ -4,12 +4,12 @@
     "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\Hotel.Repository.csproj": {}
   },
   "projects": {
-    "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\Hotel.Models.csproj": {
+    "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\Hotel.Models.csproj",
-        "projectName": "Hotel.Models",
-        "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\Hotel.Models.csproj",
+        "projectUniqueName": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj",
+        "projectName": "FruitsShop.Models",
+        "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj",
         "packagesPath": "C:\\Users\\cefvi\\.nuget\\packages\\",
         "outputPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\obj\\",
         "projectStyle": "PackageReference",
@@ -104,8 +104,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\Hotel.Models.csproj": {
-                "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\Hotel.Models.csproj"
+              "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj": {
+                "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj"
               }
             }
           }

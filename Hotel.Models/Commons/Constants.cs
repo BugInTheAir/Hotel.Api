@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hotel.Models.Commons
+namespace FruitsShop.Models.Commons
 {
     public class Constants
     {

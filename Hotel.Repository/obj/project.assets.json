@@ -265,17 +265,17 @@
           }
         }
       },
-      "Hotel.Models/1.0.0": {
+      "FruitsShop.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "MongoDB.Driver": "2.15.0"
         },
         "compile": {
-          "bin/placeholder/Hotel.Models.dll": {}
+          "bin/placeholder/FruitsShop.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Hotel.Models.dll": {}
+          "bin/placeholder/FruitsShop.Models.dll": {}
         }
       }
     }
@@ -737,15 +737,15 @@
         "version.txt"
       ]
     },
-    "Hotel.Models/1.0.0": {
+    "FruitsShop.Models/1.0.0": {
       "type": "project",
-      "path": "../Hotel.Models/Hotel.Models.csproj",
-      "msbuildProject": "../Hotel.Models/Hotel.Models.csproj"
+      "path": "../Hotel.Models/FruitsShop.Models.csproj",
+      "msbuildProject": "../Hotel.Models/FruitsShop.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Hotel.Models >= 1.0.0",
+      "FruitsShop.Models >= 1.0.0",
       "Microsoft.Extensions.Options >= 6.0.0"
     ]
   },
@@ -756,9 +756,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\Hotel.Repository.csproj",
-      "projectName": "Hotel.Repository",
-      "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\Hotel.Repository.csproj",
+      "projectUniqueName": "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\FruitsShop.Repository.csproj",
+      "projectName": "FruitsShop.Repository",
+      "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\FruitsShop.Repository.csproj",
       "packagesPath": "C:\\Users\\cefvi\\.nuget\\packages\\",
       "outputPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\obj\\",
       "projectStyle": "PackageReference",
@@ -785,8 +785,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\Hotel.Models.csproj": {
-              "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\Hotel.Models.csproj"
+            "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj": {
+              "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj"
             }
           }
         }

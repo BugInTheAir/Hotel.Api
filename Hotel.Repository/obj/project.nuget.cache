@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NmbavuCspqBs0w5z9uFnsT3PL0pIyEU5O/Pe2x3SHHie1MtqbFf0jnP4cz/uIMH9bHNqyVQ/Xt/86q8gUz+y4w==",
+  "dgSpecHash": "4sD3k+62HhMKiLYcq90IQilyFeZZK+htpSivb0IDUDh5I6NPW/Ue9tElXq9uGJy8wu+QpN1tC7QHjaePgoGxQA==",
   "success": true,
-  "projectFilePath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\Hotel.Repository.csproj",
+  "projectFilePath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\FruitsShop.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cefvi\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\cefvi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

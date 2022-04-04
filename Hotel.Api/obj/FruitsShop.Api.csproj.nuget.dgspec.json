@@ -1,0 +1,295 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\FlutterServer\\Hotel.Api\\Hotel.Api\\FruitsShop.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\FlutterServer\\Hotel.Api\\Hotel.Api\\FruitsShop.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FlutterServer\\Hotel.Api\\Hotel.Api\\FruitsShop.Api.csproj",
+        "projectName": "FruitsShop.Api",
+        "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Api\\FruitsShop.Api.csproj",
+        "packagesPath": "C:\\Users\\cefvi\\.nuget\\packages\\",
+        "outputPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cefvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\My_Player\\My_Lite_Server\\NugetsRepository\\AppNugets": {},
+          "C:\\My_Player\\My_Lite_Server\\NugetsRepository\\DomainNugets": {},
+          "C:\\My_Player\\My_Lite_Server\\NugetsRepository\\InfrastructureNugets": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj": {
+                "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj"
+              },
+              "C:\\FlutterServer\\Hotel.Api\\Hotel.Services\\FruitsShop.Services.csproj": {
+                "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Services\\FruitsShop.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.21617.4\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj",
+        "projectName": "FruitsShop.Models",
+        "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj",
+        "packagesPath": "C:\\Users\\cefvi\\.nuget\\packages\\",
+        "outputPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cefvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\My_Player\\My_Lite_Server\\NugetsRepository\\AppNugets": {},
+          "C:\\My_Player\\My_Lite_Server\\NugetsRepository\\DomainNugets": {},
+          "C:\\My_Player\\My_Lite_Server\\NugetsRepository\\InfrastructureNugets": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.21617.4\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\FruitsShop.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\FruitsShop.Repository.csproj",
+        "projectName": "FruitsShop.Repository",
+        "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\FruitsShop.Repository.csproj",
+        "packagesPath": "C:\\Users\\cefvi\\.nuget\\packages\\",
+        "outputPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cefvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\My_Player\\My_Lite_Server\\NugetsRepository\\AppNugets": {},
+          "C:\\My_Player\\My_Lite_Server\\NugetsRepository\\DomainNugets": {},
+          "C:\\My_Player\\My_Lite_Server\\NugetsRepository\\InfrastructureNugets": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj": {
+                "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.21617.4\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\FlutterServer\\Hotel.Api\\Hotel.Services\\FruitsShop.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FlutterServer\\Hotel.Api\\Hotel.Services\\FruitsShop.Services.csproj",
+        "projectName": "FruitsShop.Services",
+        "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Services\\FruitsShop.Services.csproj",
+        "packagesPath": "C:\\Users\\cefvi\\.nuget\\packages\\",
+        "outputPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cefvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\My_Player\\My_Lite_Server\\NugetsRepository\\AppNugets": {},
+          "C:\\My_Player\\My_Lite_Server\\NugetsRepository\\DomainNugets": {},
+          "C:\\My_Player\\My_Lite_Server\\NugetsRepository\\InfrastructureNugets": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj": {
+                "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj"
+              },
+              "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\FruitsShop.Repository.csproj": {
+                "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\FruitsShop.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.21617.4\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

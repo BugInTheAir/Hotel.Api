@@ -1,0 +1,17 @@
+C:\FlutterServer\Hotel.Api\Hotel.Services\obj\Debug\net5.0\FruitsShop.Services.csproj.AssemblyReference.cache
+C:\FlutterServer\Hotel.Api\Hotel.Services\obj\Debug\net5.0\FruitsShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\FlutterServer\Hotel.Api\Hotel.Services\obj\Debug\net5.0\FruitsShop.Services.AssemblyInfoInputs.cache
+C:\FlutterServer\Hotel.Api\Hotel.Services\obj\Debug\net5.0\FruitsShop.Services.AssemblyInfo.cs
+C:\FlutterServer\Hotel.Api\Hotel.Services\obj\Debug\net5.0\FruitsShop.Services.csproj.CoreCompileInputs.cache
+C:\FlutterServer\Hotel.Api\Hotel.Services\bin\Debug\net5.0\FruitsShop.Services.deps.json
+C:\FlutterServer\Hotel.Api\Hotel.Services\bin\Debug\net5.0\FruitsShop.Services.dll
+C:\FlutterServer\Hotel.Api\Hotel.Services\bin\Debug\net5.0\FruitsShop.Services.pdb
+C:\FlutterServer\Hotel.Api\Hotel.Services\bin\Debug\net5.0\FruitsShop.Models.dll
+C:\FlutterServer\Hotel.Api\Hotel.Services\bin\Debug\net5.0\FruitsShop.Repository.dll
+C:\FlutterServer\Hotel.Api\Hotel.Services\bin\Debug\net5.0\FruitsShop.Models.pdb
+C:\FlutterServer\Hotel.Api\Hotel.Services\bin\Debug\net5.0\FruitsShop.Repository.pdb
+C:\FlutterServer\Hotel.Api\Hotel.Services\obj\Debug\net5.0\FruitsShop.Services.csproj.CopyComplete
+C:\FlutterServer\Hotel.Api\Hotel.Services\obj\Debug\net5.0\FruitsShop.Services.dll
+C:\FlutterServer\Hotel.Api\Hotel.Services\obj\Debug\net5.0\refint\FruitsShop.Services.dll
+C:\FlutterServer\Hotel.Api\Hotel.Services\obj\Debug\net5.0\FruitsShop.Services.pdb
+C:\FlutterServer\Hotel.Api\Hotel.Services\obj\Debug\net5.0\ref\FruitsShop.Services.dll

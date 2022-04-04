@@ -265,31 +265,31 @@
           }
         }
       },
-      "Hotel.Models/1.0.0": {
+      "FruitsShop.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "MongoDB.Driver": "2.15.0"
         },
         "compile": {
-          "bin/placeholder/Hotel.Models.dll": {}
+          "bin/placeholder/FruitsShop.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Hotel.Models.dll": {}
+          "bin/placeholder/FruitsShop.Models.dll": {}
         }
       },
-      "Hotel.Repository/1.0.0": {
+      "FruitsShop.Repository/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Hotel.Models": "1.0.0",
+          "FruitsShop.Models": "1.0.0",
           "Microsoft.Extensions.Options": "6.0.0"
         },
         "compile": {
-          "bin/placeholder/Hotel.Repository.dll": {}
+          "bin/placeholder/FruitsShop.Repository.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Hotel.Repository.dll": {}
+          "bin/placeholder/FruitsShop.Repository.dll": {}
         }
       }
     }
@@ -751,21 +751,21 @@
         "version.txt"
       ]
     },
-    "Hotel.Models/1.0.0": {
+    "FruitsShop.Models/1.0.0": {
       "type": "project",
-      "path": "../Hotel.Models/Hotel.Models.csproj",
-      "msbuildProject": "../Hotel.Models/Hotel.Models.csproj"
+      "path": "../Hotel.Models/FruitsShop.Models.csproj",
+      "msbuildProject": "../Hotel.Models/FruitsShop.Models.csproj"
     },
-    "Hotel.Repository/1.0.0": {
+    "FruitsShop.Repository/1.0.0": {
       "type": "project",
-      "path": "../Hotel.Repository/Hotel.Repository.csproj",
-      "msbuildProject": "../Hotel.Repository/Hotel.Repository.csproj"
+      "path": "../Hotel.Repository/FruitsShop.Repository.csproj",
+      "msbuildProject": "../Hotel.Repository/FruitsShop.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Hotel.Models >= 1.0.0",
-      "Hotel.Repository >= 1.0.0"
+      "FruitsShop.Models >= 1.0.0",
+      "FruitsShop.Repository >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -775,9 +775,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FlutterServer\\Hotel.Api\\Hotel.Services\\Hotel.Services.csproj",
-      "projectName": "Hotel.Services",
-      "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Services\\Hotel.Services.csproj",
+      "projectUniqueName": "C:\\FlutterServer\\Hotel.Api\\Hotel.Services\\FruitsShop.Services.csproj",
+      "projectName": "FruitsShop.Services",
+      "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Services\\FruitsShop.Services.csproj",
       "packagesPath": "C:\\Users\\cefvi\\.nuget\\packages\\",
       "outputPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Services\\obj\\",
       "projectStyle": "PackageReference",
@@ -804,11 +804,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\Hotel.Models.csproj": {
-              "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\Hotel.Models.csproj"
+            "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj": {
+              "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Models\\FruitsShop.Models.csproj"
             },
-            "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\Hotel.Repository.csproj": {
-              "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\Hotel.Repository.csproj"
+            "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\FruitsShop.Repository.csproj": {
+              "projectPath": "C:\\FlutterServer\\Hotel.Api\\Hotel.Repository\\FruitsShop.Repository.csproj"
             }
           }
         }

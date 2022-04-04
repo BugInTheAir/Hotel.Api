@@ -1,8 +1,8 @@
-using Hotel.Models.Commons;
-using Hotel.Models.Mapper;
-using Hotel.Repository;
-using Hotel.Repository.Settings;
-using Hotel.Services;
+using FruitsShop.Models.Commons;
+using FruitsShop.Models.Mapper;
+using FruitsShop.Repository;
+using FruitsShop.Repository.Settings;
+using FruitsShop.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -16,7 +16,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Hotel.Api
+namespace FruitsShop.Api
 {
     public class Startup
     {
@@ -30,10 +30,10 @@ namespace Hotel.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.Configure<HotelDatabaseSettings>(Configuration.GetSection(Constants.DATABASE_CONFIGURATION));
-            services.AddScoped<IRoomRepository, RoomRepository>();
-            services.AddScoped<IRoomMapper, RoomMapper>();
-            services.AddScoped<IRoomServices, RoomServices>();
+            services.Configure<DatabaseSettings>(Configuration.GetSection(Constants.DATABASE_CONFIGURATION));
+            services.AddScoped<IFruitRepository, FruitRepository>();
+            services.AddScoped<IFruitMapper, FruitMapper>();
+            services.AddScoped<IFruitsServices, FruitServices>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
